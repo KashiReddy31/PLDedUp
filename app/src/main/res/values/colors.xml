@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_700">#616161</color>   <!-- Dim Grey -->
+    <color name="grey_800">#424242</color> <!-- Dark Grey -->
+    <color name="grey_900">#212121</color> <!-- Darker Grey -->
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="priceListTextColor">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="menu_text_color_light">#000000</color>
+    <color name="menu_text_color_dark">#FFFFFF</color>
+
+
+</resources>
